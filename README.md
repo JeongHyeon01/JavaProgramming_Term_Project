@@ -47,10 +47,23 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 <br>
 
 ## ⚙️ 실행 방법
+
 1. Java 17 이상 설치  
-2. 프로젝트를 클론 또는 다운로드
+2. 프로젝트를 클론 또는 다운로드  
 3. IDE (Eclipse, IntelliJ 등)로 열기  
-4. src 내의 `Main.java` 실행
+4. IDE에서 `src/main/Main.java` 실행  
+
+---
+
+### Terminal
+
+```bash
+# 1) src 폴더 내 모든 자바 파일 컴파일 (out 폴더 생성)
+javac -d out $(find src -name "*.java")
+
+# 2) 컴파일된 Main 클래스 실행
+java -cp out main.Main
+
 
 <br>
 
