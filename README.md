@@ -2,9 +2,11 @@
 
 
 ## 📌 소개
-해당 프로젝트는 자바 프로그래밍 교과의 Term Project로 진행되었습니다.<br>
-이 애플리케이션은 사용자가 감정과 일기를 기록하고 <br>
-이를 기반으로 감정 통계를 시각적으로 확인할 수 있는 데스크톱 프로그램입니다.<br>
+**해당 프로젝트는 자바 프로그래밍 교과의 Term Project로 진행되었습니다.**
+
+이 애플리케이션은 사용자가 감정과 일기를 기록하고  
+이를 기반으로 감정 통계를 시각적으로 확인할 수 있는 데스크톱 프로그램입니다.
+
 Swing을 활용해 GUI를 직접 구성하였습니다.
 
 
@@ -16,27 +18,35 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 
 
 ## 🖼️ 사용 예시
-### Main Frame
+### Main Frame  
 사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다.  
-![](./screenshots/MainFrame.jpg)
+<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
+  <img src="./screenshots/MainFrame.jpg" alt="Main Frame" style="width:100%; height:auto; border-radius:4px;">
+</div>
 
 ---
 
-### Write Diary
+### Write Diary  
 사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다.  
-![](./screenshots/Write_Diary/DiaryWriteFrame.jpg)
+<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
+  <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" alt="Write Diary" style="width:100%; height:auto; border-radius:4px;">
+</div>
 
 ---
 
-### Read Diary
-날짜별로 작성한 일기를 확인하며 필요시 내용을 수정할 수 있습니다  
-![](./screenshots/Read_Diary/DiaryReadFrame.jpg)
+### Read Diary  
+날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다.  
+<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
+  <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" alt="Read Diary" style="width:100%; height:auto; border-radius:4px;">
+</div>
 
 ---
 
 ### Emotion statistics  
 감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다.  
-![](./screenshots/Emtion_statistics/Anxiety.jpg)
+<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
+  <img src="./screenshots/Emtion_statistics/Anxiety.jpg" alt="Emotion statistics" style="width:100%; height:auto; border-radius:4px;">
+</div>
 
 
 
@@ -46,14 +56,17 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 3. IDE (Eclipse, IntelliJ 등)로 열기  
 4. src 내의 `Main.java` 실행
 
+
 ## 📁 폴더 구조
 - `src/` : Java 소스 코드  
 - `diaries/` : 일기 텍스트 파일 저장 위치 (샘플 데이터 존재)
 - `screenshots/` : 실행 화면 캡처
 
+
 ## ✅ 개발 환경
 - Java 21  
 - GUI: Java Swing
+
 
 ## 💡 향후 발전 방향
 - 사용자 지정 기간 통계 제공  
