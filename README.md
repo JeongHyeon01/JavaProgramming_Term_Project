@@ -63,7 +63,7 @@ javac -d out $(find src -name "*.java")
 
 # 2) 컴파일된 Main 클래스 실행
 java -cp out main.Main
-
+```
 
 <br>
 
