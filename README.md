@@ -29,7 +29,7 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
     </td>
     <td align="center" width="50%">
       <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" alt="Write Diary" style="width:360px; height:250px; object-fit: cover;"><br>
-      <b>Write Diary</b><br>감정, 일기 작성
+      <b>Write Diary</b><br>감정 선택, 일기 작성
     </td>
   </tr>
   <tr>
