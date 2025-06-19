@@ -18,13 +18,28 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 
 
 ## 🖼️ 사용 예시
-| Main Frame<br><br>사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다. | Write Diary<br><br>사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다. |
-|:------------------------------------------------:|:------------------------------------------------:|
-| <img src="./screenshots/MainFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> | <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> |
-
-| Read Diary<br><br>날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다. | Emotion statistics<br><br>감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다. |
-|:------------------------------------------------:|:------------------------------------------------:|
-| <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> | <img src="./screenshots/Emtion_statistics/Anxiety.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./screenshots/MainFrame.jpg" alt="Main Frame" style="width:300px; height:200px; object-fit: cover;"><br>
+      <b>Main Frame</b><br>사용자가 원하는 기능을 선택하는<br>프로그램의 시작점입니다.
+    </td>
+    <td align="center" width="50%">
+      <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" alt="Write Diary" style="width:300px; height:200px; object-fit: cover;"><br>
+      <b>Write Diary</b><br>사용자가 원하는 감정을 선택하고<br>직접 일기를 작성하는 화면입니다.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" alt="Read Diary" style="width:300px; height:200px; object-fit: cover;"><br>
+      <b>Read Diary</b><br>날짜별로 작성한 일기를 확인하며<br>필요 시 내용을 수정할 수 있습니다.
+    </td>
+    <td align="center" width="50%">
+      <img src="./screenshots/Emtion_statistics/Anxiety.jpg" alt="Emotion statistics" style="width:300px; height:200px; object-fit: cover;"><br>
+      <b>Emotion statistics</b><br>감정 통계를 바탕으로<br>맞춤형 조언을 제공하는 화면입니다.
+    </td>
+  </tr>
+</table>
 
 
 
