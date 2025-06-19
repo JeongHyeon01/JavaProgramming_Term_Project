@@ -51,7 +51,7 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 1. Java 17 이상 설치  
 2. 프로젝트를 클론 또는 다운로드  
 3. IDE (Eclipse, IntelliJ 등)로 열기  
-4. IDE에서 `src/main/Main.java` 실행  
+4. IDE에서 `src/Main.java` 실행  
 
 ---
 
