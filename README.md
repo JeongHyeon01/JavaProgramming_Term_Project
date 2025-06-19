@@ -4,8 +4,8 @@
 ## 📌 소개
 **해당 프로젝트는 자바 프로그래밍 교과의 Term Project로 진행되었습니다.**
 
-이 애플리케이션은 사용자가 감정과 일기를 기록하고  
-이를 기반으로 감정 통계를 시각적으로 확인할 수 있는 데스크톱 프로그램입니다.
+해당 애플리케이션은 사용자가 감정과 일기를 기록하고  
+감정 통계를 시각적으로 확인할 수 있는 데스크톱 프로그램입니다.
 
 Swing을 활용해 GUI를 직접 구성하였습니다.
 
@@ -18,35 +18,15 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 
 
 ## 🖼️ 사용 예시
-### Main Frame  
-사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다.  
-<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
-  <img src="./screenshots/MainFrame.jpg" alt="Main Frame" style="width:100%; height:auto; border-radius:4px;">
-</div>
+| Main Frame                     | Write Diary                    |
+|-------------------------------|-------------------------------|
+| <img src="./screenshots/MainFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> | <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> |
+| 사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다. | 사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다. |
 
----
-
-### Write Diary  
-사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다.  
-<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
-  <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" alt="Write Diary" style="width:100%; height:auto; border-radius:4px;">
-</div>
-
----
-
-### Read Diary  
-날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다.  
-<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
-  <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" alt="Read Diary" style="width:100%; height:auto; border-radius:4px;">
-</div>
-
----
-
-### Emotion statistics  
-감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다.  
-<div style="border:1px solid #ddd; padding:10px; max-width:600px; margin-bottom:20px;">
-  <img src="./screenshots/Emtion_statistics/Anxiety.jpg" alt="Emotion statistics" style="width:100%; height:auto; border-radius:4px;">
-</div>
+| Read Diary                    | Emotion statistics             |
+|------------------------------|-------------------------------|
+| <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> | <img src="./screenshots/Emtion_statistics/Anxiety.jpg" style="max-width:300px; width:100%; height:auto;" /> |
+| 날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다. | 감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다. |
 
 
 
