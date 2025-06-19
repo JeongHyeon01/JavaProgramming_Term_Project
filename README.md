@@ -18,15 +18,13 @@ Swing을 활용해 GUI를 직접 구성하였습니다.
 
 
 ## 🖼️ 사용 예시
-| Main Frame                     | Write Diary                    |
-|-------------------------------|-------------------------------|
-| <img src="./screenshots/MainFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> | <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> |
-| 사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다. | 사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다. |
+| Main Frame<br><br>사용자가 원하는 기능을 선택하는 프로그램의 시작점입니다. | Write Diary<br><br>사용자가 원하는 감정을 선택하고 직접 일기를 작성하는 화면입니다. |
+|:------------------------------------------------:|:------------------------------------------------:|
+| <img src="./screenshots/MainFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> | <img src="./screenshots/Write_Diary/DiaryWriteFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> |
 
-| Read Diary                    | Emotion statistics             |
-|------------------------------|-------------------------------|
-| <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" style="max-width:300px; width:100%; height:auto;" /> | <img src="./screenshots/Emtion_statistics/Anxiety.jpg" style="max-width:300px; width:100%; height:auto;" /> |
-| 날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다. | 감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다. |
+| Read Diary<br><br>날짜별로 작성한 일기를 확인하며 필요 시 내용을 수정할 수 있습니다. | Emotion statistics<br><br>감정 통계를 바탕으로 맞춤형 조언을 제공하는 화면입니다. |
+|:------------------------------------------------:|:------------------------------------------------:|
+| <img src="./screenshots/Read_Diary/DiaryReadFrame.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> | <img src="./screenshots/Emtion_statistics/Anxiety.jpg" style="max-width:280px; width:100%; height:auto; display:block; margin:auto;" /> |
 
 
 
